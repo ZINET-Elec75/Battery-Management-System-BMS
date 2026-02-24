@@ -24,4 +24,4 @@ The system protects the battery pack against:
 ## Project Content
 This repository includes:
 - Schematic design  
-- **PCB layout (in progress)**
+- PCB layout 
